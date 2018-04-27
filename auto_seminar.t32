@@ -1,0 +1,38 @@
+;This configuration file is generated with T32Start2
+;===================================================
+
+;Environment Variables
+OS=
+ID=T32_AutoDemo
+TMP=C:\Users\LTBH\AppData\Local\Temp
+SYS=D:\T32_201709
+HELP=D:\T32_201709\pdf
+
+LICENSE=
+RLM_LICENSE=5055@localhost
+
+;T32 API Access
+; not used
+
+;T32 Intercom
+IC=NETASSIST
+PORT=20000
+PACKLEN=1024
+
+;T32 GDB
+; not used
+
+;T32 TCF
+; not used
+
+
+;Connection to Host
+PBI=SIM
+
+;Screen Settings
+SCREEN=
+FONT=SMALL
+HEADER=TRACE32 PowerView for Auto Seminar 2018
+
+;Printer Settings:
+PRINTER=WINDOWS
